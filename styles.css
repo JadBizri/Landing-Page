@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    font-family: Verdana, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.logo{
+    font-size: 20px;
+    color: #a7a1a1;
+}
+
+.nav-item{
+    font-size: 16px;
+    color: #a7a1a1;
+}
+
+.hero-text{
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.secondary-text{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header,
+.main{
+    background-color: #1F2937;
+    padding: 16px 64px;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+/* unordered list for navigation */
+#navigation-bar{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    gap: 32px;
+}
+
+/* About section with image */
+.main{
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-bottom: 48px;
+    gap: 10%;
+}
+
+.about-description{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    flex: auto;
+}
+
+.about-description h1{
+    margin: 18px 0;
+}
+
+.about-description button{
+    font-size: 18px;
+    width: 10em;
+    padding: 16px 32px;
+    border-radius: 0.3rem;
+    color: #E5E7EB;
+    border: transparent;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    margin: 9px 0;
+}
+
+.about-description button:hover{
+    background-color: #0b5ed7;
+    border-color: #0b5ed7;
+    cursor: pointer;
+}
+
+.about-description button:hover span{
+    display: none;
+}
+
+button:hover:before{
+    content: "Mooo?"
+}
+
+.main-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
