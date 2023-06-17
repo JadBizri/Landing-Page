@@ -33,7 +33,8 @@ a{
 }
 
 .header,
-.main{
+.main,
+.footer{
     background-color: #1F2937;
     padding: 16px 64px;
 }
@@ -101,7 +102,7 @@ a{
     display: none;
 }
 
-button:hover:before{
+.about-description button:hover:before{
     content: "Mooo?"
 }
 
@@ -126,7 +127,7 @@ button:hover:before{
     font-weight: 900;
     color: #1F2937;
     padding-bottom: 20px;
-    border-bottom: #dee2e6;
+    border-bottom: 1px #dee2e6;
     border-style: solid;
     border-top: hidden;
     border-left: hidden;
@@ -136,8 +137,11 @@ button:hover:before{
 .goats-container{
     display: flex;
     justify-content: space-between;
-    flex: auto;
     flex-wrap: wrap;
+}
+
+.sport-goats{
+    align-items: center;
 }
 
 .image,
@@ -145,7 +149,6 @@ button:hover:before{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
 }
 
 .image img{
@@ -174,4 +177,75 @@ button:hover:before{
     align-items: center;
     justify-content: center;
     display: flex;
+}
+
+.quote{
+    display: flex;
+    flex-direction: column;
+    padding: 2.75em 5em;
+    background-color: #E5E7EB;
+    font-size: 28px;
+    color: #1F2937;
+}
+
+.author{
+    font-weight: 900;
+    align-self: flex-end;
+}
+
+.signup{
+    padding: 100px 256px;
+}
+
+.signup-box{
+    display: flex;
+    background-color: #3882F6;
+    border-radius: 0.5em;
+    padding: 40px 80px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.messages{
+    color: white;
+
+}
+
+.signup-box button{
+    flex-shrink: 0;
+    padding: 7.5px 30px;
+    background-color: #3882F6;
+    border-radius: 0.3em;
+    border: 1px solid white;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.signup-box button:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+
+}
+
+.message-text{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.sub-message{
+    font-weight: lighter;
+    font-size: 16px;
+}
+
+.footer{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#github{
+    color: #3366CC;
 }
