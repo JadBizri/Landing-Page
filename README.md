@@ -9,3 +9,37 @@ A landing page sample that I built while I was pursuing The Odin Project's curri
 
 # Usage
 To use this sample landing page, simply download the code and open the index.html file in a web browser. Feel free to explore the code and experiment with different modifications to see the impact on the page layout and styling.
+
+# Image Credits
+- Image 1:
+    - Description: Smiling Baby Goat
+    - Creator: Blaxtar Essentials
+    - Source: https://www.pexels.com/photo/black-short-coated-baby-goat-9733333/
+- Image 2:
+    - Description: Goat with tilted head
+    - Creator: User 'fsHH' on Pixabay
+    - Source: https://pixabay.com/photos/goat-desire-wild-spain-escorca-977502/ 
+- Image 3:
+    - Description: Goat twins
+    - Creator: Bailey Mahon
+    - Source: https://unsplash.com/photos/AlfgSap679Y 
+- Image 4:
+    - Description: Baby goat and momma goat
+    - Creator: User 'DoDo PHANTHAMALY' on Pexels
+    - Source: https://www.pexels.com/photo/black-kid-drinking-milk-457695/ 
+- Image 5:
+    - Description: Goat with long horns
+    - Creator: Timo Niedermann
+    - Source: https://www.pexels.com/photo/an-alpine-ibex-resting-on-a-higher-ground-10212109/
+- Image 6:
+    - Description: Lionel Messi
+    - Creator: Unknown
+    - Source: https://icdn.caughtoffside.com/wp-content/uploads/2022/09/Messi-argentina.jpg.webp
+- Image 7:
+    - Description: Michael Jordan
+    - Creator: Robert Sullivan
+    - Source: https://cassiuslife.com/587996/michael-jordan-jersey-1998-nba-finals-auction/ 
+- Image 8:
+    - Description: Mohammed Ali
+    - Creator: John Rooney
+    - Source: https://www.nbcnews.com/slideshow/float-butterfly-muhammad-ali-s-life-photos-n585701 
