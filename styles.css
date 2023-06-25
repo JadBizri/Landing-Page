@@ -67,6 +67,7 @@ a{
     flex-wrap: wrap;
     justify-content: space-between;
     padding-bottom: 48px;
+    gap: 30px;
 }
 
 .about-description{
@@ -78,10 +79,6 @@ a{
 
 .about-description h1{
     margin: 18px 0;
-}
-
-.about-description p{
-    margin-right: 100px;
 }
 
 .about-description button{
@@ -142,6 +139,7 @@ a{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    gap: 10px;
 }
 
 .sport-goats{
