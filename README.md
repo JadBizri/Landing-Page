@@ -8,7 +8,7 @@ A landing page sample that I built while I was pursuing The Odin Project's curri
 - Customizable: The codebase is easy to understand and modify, allowing developers to customize the landing page to their specific needs or integrate it into larger projects.
 
 # Usage
-To use this sample landing page, simply download the code and open the index.html file in a web browser. Feel free to explore the code and experiment with different modifications to see the impact on the page layout and styling.
+To use this sample landing page, simply click [here](https://jadbizri.github.io/Landing-Page/). Alternatively, you can simply download the code and open the index.html file in a web browser. Feel free to explore the code and experiment with different modifications to see the impact on the page layout and styling.
 
 # Image Credits
 - Image 1:
